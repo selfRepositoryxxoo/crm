@@ -12,8 +12,8 @@
       "NODE_ENV": "production"
     }
   },{
-    "name"      : "WEB",
-    "script"    : "web.js"
+    "name"      : "CRM",
+    "script"    : "server.js"
   }],
   // Deployment part
   // Here you describe each environment
